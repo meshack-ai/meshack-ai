@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Meshack Kipngetich</h1>
 <h3 align="center">A passionate Ethical hacker and programmer from Kenya </h3>
-(img align="right" alt="Coding" width="400" src="https://medium.com/swlh/what-is-programming-d5aa8fb0f280")
+(img align="right" alt="Coding" width="400" src="https://medium.com/swlh/what-is-programming-d5aa8fb0f280")>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meshack-ai&label=Profile%20views&color=0e75b6&style=flat" alt="meshack-ai" /> </p>
 
