@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Meshack Kipngetich</h1>
+[<h1 align="center">Hi 👋, I'm Meshack Kipngetich</h1>
 <h3 align="center">A passionate Ethical hacker and programmer from Kenya </h3>
 <img align="right" alt="Coding" width="400" src="https://medium.com/swlh/what-is-programming-d5aa8fb0f280">
 
@@ -28,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meshack-ai&show_icons=true&locale=en" alt="meshack-ai" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meshack-ai&" alt="meshack-ai" /></p>
+](https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif)
