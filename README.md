@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/meshackkipnget5" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/meshackkipnget5?logo=twitter&style=for-the-badge" alt="https://twitter.com/meshackkipnget5" /></a> </p>
 
-- 🌱 I’m currently learning **Bash,C,Python**
+- 🌱 I’m currently learning **Bash,C,Python,Java,Android**
 
-- 💬 Ask me about **Bash and any tech related stuff**
+- 💬 Ask me about **Bash,Java, Security and any tech related stuff**
 
 - 📫 How to reach me **kipngetichmeshack022@gmail.com**
 
