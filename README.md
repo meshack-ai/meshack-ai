@@ -13,14 +13,6 @@
 - 📫 How to reach me **kipngetichmeshack022@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://twitter.com/meshackkipnget5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/meshackkipnget5" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/meshack-kipngetich-a1429a200/overlay/background-image/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/meshack-kipngetich-a1429a200/overlay/background-image/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18700907/meshack-kipngetich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18700907/meshack-kipngetich" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@kipngetichmeshack022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@kipngetichmeshack022" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
@@ -52,7 +44,14 @@
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
   </a> 
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.android.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40"/> 
+  </a> 
 </p>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meshack-ai&show_icons=true&locale=en&layout=compact" alt="meshack-ai" /></p>
